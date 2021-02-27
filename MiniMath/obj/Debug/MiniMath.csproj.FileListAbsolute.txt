@@ -1,0 +1,6 @@
+C:\Users\Johan\RiderProjects\MiniMath\MiniMath\bin\Debug\MiniMath.dll
+C:\Users\Johan\RiderProjects\MiniMath\MiniMath\bin\Debug\MiniMath.pdb
+C:\Users\Johan\RiderProjects\MiniMath\MiniMath\obj\Debug\MiniMath.csprojAssemblyReference.cache
+C:\Users\Johan\RiderProjects\MiniMath\MiniMath\obj\Debug\MiniMath.csproj.CoreCompileInputs.cache
+C:\Users\Johan\RiderProjects\MiniMath\MiniMath\obj\Debug\MiniMath.dll
+C:\Users\Johan\RiderProjects\MiniMath\MiniMath\obj\Debug\MiniMath.pdb
